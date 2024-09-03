@@ -1,0 +1,15 @@
+/Users/vidarheritier/Projects/Sharp/bin/Debug/net7.0/Sharp
+/Users/vidarheritier/Projects/Sharp/bin/Debug/net7.0/Sharp.deps.json
+/Users/vidarheritier/Projects/Sharp/bin/Debug/net7.0/Sharp.runtimeconfig.json
+/Users/vidarheritier/Projects/Sharp/bin/Debug/net7.0/Sharp.dll
+/Users/vidarheritier/Projects/Sharp/bin/Debug/net7.0/Sharp.pdb
+/Users/vidarheritier/Projects/Sharp/obj/Debug/net7.0/Sharp.csproj.AssemblyReference.cache
+/Users/vidarheritier/Projects/Sharp/obj/Debug/net7.0/Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vidarheritier/Projects/Sharp/obj/Debug/net7.0/Sharp.AssemblyInfoInputs.cache
+/Users/vidarheritier/Projects/Sharp/obj/Debug/net7.0/Sharp.AssemblyInfo.cs
+/Users/vidarheritier/Projects/Sharp/obj/Debug/net7.0/Sharp.csproj.CoreCompileInputs.cache
+/Users/vidarheritier/Projects/Sharp/obj/Debug/net7.0/Sharp.dll
+/Users/vidarheritier/Projects/Sharp/obj/Debug/net7.0/refint/Sharp.dll
+/Users/vidarheritier/Projects/Sharp/obj/Debug/net7.0/Sharp.pdb
+/Users/vidarheritier/Projects/Sharp/obj/Debug/net7.0/Sharp.genruntimeconfig.cache
+/Users/vidarheritier/Projects/Sharp/obj/Debug/net7.0/ref/Sharp.dll
